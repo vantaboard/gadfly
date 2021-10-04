@@ -1,0 +1,11 @@
+{
+  "token": {
+    "access_token": "",
+    "scope": "https://www.googleapis.com/auth/documents https://www.googleapis.com/auth/script.webapp.deploy https://www.googleapis.com/auth/script.external_request",
+    "token_type": "Bearer",
+    "expiry_date": 0,
+    "refresh_token": ""
+  },
+  "oauth2ClientSettings": { "clientId": "", "clientSecret": "", "redirectUri": "" },
+  "isLocalCreds": true
+}
