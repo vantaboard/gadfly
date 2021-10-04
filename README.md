@@ -28,7 +28,6 @@ To install, clone the git repo and make sure to get Clasp set up. You can read m
 
 ### 🛣️ Roadmap
 
-- Add JSDoc documentation to Gadfly.ts
 - Add more sources other than MediaWiki
 - Allows user to derive multiple terms from single paragraphs
 
