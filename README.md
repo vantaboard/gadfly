@@ -1,6 +1,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-# Gadfly 🪰
+# Gadfly <img src=".ghimages/logo/gadfly.png" alt="gadfly logo" height="30"/>
 
 ![demonstration](.ghimages/gifs/demonstration.gif)
 
