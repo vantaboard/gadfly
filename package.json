@@ -2,21 +2,32 @@
   "name": "gadfly",
   "version": "0.0.1",
   "description": "Google Apps Script for scraping definitions of terms from the internet.",
-  "main": "./src/Gadfly.gs",
+  "main": "tsc-out/main.js",
   "author": "blackboardd",
   "license": "MIT",
   "scripts": {
     "prepare": "husky install",
+    "deploy": "echo 'not implemented yet'",
+    "test": "echo 'not implemented yet'",
+    "push": "clasp push",
+    "serve": "clasp push -w",
+    "start": "clasp run atOpen",
     "commit": "cz",
-    "release": "standard-version"
+    "version": "clasp version",
+    "versions": "clasp versions",
+    "log": " clasp logs --watch >> ./logs/clasp.log"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.2.0",
-    "cz-conventional-changelog": "3.3.0",
     "husky": "^7.0.2",
-    "standard-version": "^9.3.1"
+    "rollup": "^2.58.0",
+    "rollup-plugin-typescript-paths": "^1.3.0",
+    "standard-version": "^9.3.1",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.3"
   },
   "dependencies": {
+    "@types/google-apps-script": "^1.0.37",
     "commitizen": "^4.2.4"
   },
   "husky": {

@@ -1,2 +1,7 @@
 node_modules
 *.log
+
+# Google Apps Script information
+.clasprc.json
+.clasp.json
+creds.json
