@@ -2,6 +2,8 @@
 
 # Gadfly 🪰
 
+![demonstration](.ghimages/gifs/demonstration.gif)
+
 ## 👠 Features
 
 - Uses MediaWiki API with no external API wrapper
