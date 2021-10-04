@@ -1,6 +1,6 @@
 {
   "name": "gadfly",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Google Apps Script for scraping definitions of terms from the internet.",
   "main": "tsc-out/main.js",
   "author": "blackboardd",
@@ -11,7 +11,7 @@
     "test": "echo 'not implemented yet'",
     "push": "clasp push",
     "serve": "clasp push -w",
-    "start": "clasp run atOpen",
+    "start": "clasp run mutateTerms",
     "commit": "cz",
     "version": "clasp version",
     "versions": "clasp versions",
