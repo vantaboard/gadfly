@@ -9,7 +9,8 @@
   "runtimeVersion": "V8",
   "addOns": {
     "common": {
-      "name": "Gadfly"
+      "name": "Gadfly",
+      "logoUrl": "https://www.gstatic.com/script/apps_script_1x_24dp.png"
     },
     "docs": {},
     "slides": {},
