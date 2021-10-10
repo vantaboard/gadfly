@@ -24,4 +24,4 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx dotenv semantic-release
       - name: Clasp version bump
-        run: yarn run version
+        run: npx clasp version "Bump the version."
