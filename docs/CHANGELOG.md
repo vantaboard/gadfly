@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/blackboardd/gadfly/compare/v1.0.0...v1.0.1) (2021-10-10)
+
+
+### Bug Fixes
+
+* **release.yml:** removed clasp version bump from workflow ([8b0ccbd](https://github.com/blackboardd/gadfly/commit/8b0ccbd7848307d9a0c320e5453fc49787d0908f))
+
 # 1.0.0 (2021-10-10)
 
 
