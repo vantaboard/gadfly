@@ -1,7 +1,11 @@
+# Node
 node_modules
-*.log
 
-# Google Apps Script information
+# Environmental variables
+.env
 .clasprc.json
 .clasp.json
 creds.json
+
+# Log files
+*.log
