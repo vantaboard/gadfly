@@ -23,5 +23,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx dotenv semantic-release
-      - name: Clasp version bump
-        run: npx clasp version "Bump the version."
