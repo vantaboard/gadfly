@@ -42,7 +42,7 @@
     "@typescript-eslint/parser": "^5.0.0",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "cz-conventional-changelog": "^3.3.0",
-    "dotenv-cli": "^4.0.0",
+    "dotenv-cli": "^5.0.0",
     "esbuild-register": "^3.0.0",
     "eslint": "^8.0.0",
     "eslint-config-prettier": "^8.3.0",
